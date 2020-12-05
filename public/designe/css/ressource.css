@@ -1,0 +1,197 @@
+a{
+  color: blue;
+  font-weight: bold;
+  font-size: 17px;
+  font-family: arial;
+  padding: 0 0 0 0;
+}
+.content_bottom p{
+  font-size: .9em;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.btn-info{
+  height: 45px;
+}
+
+.blog-desc h4{
+    font-size: 20px;
+}
+.blog-desc p{
+    font-size: 15px;
+}
+.blog-desc p a{
+    margin: 0px 0px 0px 0px;
+}
+.services_grid{
+  float:right;
+  width:85%;
+  margin:0 0 0 0;
+}
+.content_bottom h3{
+  font-family: 'arial';
+  font-size: 1em;
+  color: black;
+  font-weight: bold;
+  border:1px solid red;
+}
+#descipline,#type{
+  border:1px solid gray;
+  border-radius: 4px;
+  color: gray;
+  height: 38px;
+cursor: pointer;
+width: 255px;
+}
+.descipline,.type{
+  display: none;
+
+}
+.subscribe-area {
+background-image: linear-gradient(to top, #00c6fb 0%, #005bea 250%);
+}
+.btn-info{
+  background-image: linear-gradient(to top, #00c6fb 0%, #005bea 250%);
+   border-radius: 30px
+}
+.pb-50 {
+    padding-bottom: 20px;
+}
+.pt-70 {
+    padding-top: 30px;
+}
+
+.mb-15 {
+    margin-bottom: 10px;
+}
+
+.subscribe-text span {
+    font-size: 12px;
+    font-weight: 700;
+    color: white;
+    letter-spacing: 5px;
+}
+.subscribe-text h2 {
+    color: white;
+    font-size: 36px;
+    font-weight: 300;
+    margin-bottom: 0;
+    margin-top: 6px;
+}
+.subscribe-wrapper {
+    overflow: hidden;
+}
+.mb-15 {
+    margin-bottom: 15px;
+}
+.subscribe2-wrapper .subscribe-form input {
+    background: none;
+    border: 1px solid #fff;
+    border-radius: 30px;
+    color: #fff;
+    display: inline-block;
+    font-size: 15px;
+    font-weight: 300;
+    height: 57px;
+    margin-right: 17px;
+    padding-left: 35px;
+    width: 70%;
+}
+.subscribe2-wrapper .subscribe-form button {
+    background: #ffff;
+    border: none;
+    border-radius: 30px;
+    color: #4b5d73;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 2;
+    transition: all 0.3s ease 0s;
+    width: 150px;
+}
+.subscribe2-wrapper .subscribe-form button i {
+    font-size: 16px;
+    padding-left: 1px;
+}
+.my-2{
+border-radius: 10px;
+padding: 10px 10px 10px 10px;
+background-image: linear-gradient(to top, #00c6fb 0%, #005bea 100%);
+}
+.caret{
+  color: red;
+  float: right;
+}
+
+ul#menu-group-type {
+    display: inline-block;
+}
+ul#menu-group-type > li {
+    border: none;
+    width: 90%;
+    margin: 0;
+    padding: 0;
+    border-bottom: 1px solid red;
+}
+
+.menu li a {
+    display: block;
+    
+    font-size: 0.10em;
+    color: #FFF;
+    text-transform: uppercase;
+    padding: 10px 10px;
+    -webkit-transition: all .5s;
+    -moz-transition: all .5s;
+    -o-transition: all .5s;
+    -ms-transition: all .5s;
+    transition: all .5s;
+    position: relative;
+}
+.menu
+.widget ul li {
+
+    width: 70%;
+    padding: 8px 0;
+    display: inline-block;
+    border-bottom: 1px dotted rgba(0,0,0,.08);
+font-family: arial;}
+.widget ul.menu li a {
+    padding: 6px 0;
+    color: white;
+    font-size:13px;
+    
+}
+.widget1 ul li {
+    width: 70%;
+    padding: 8px 0;
+    display: inline-block;
+    border-bottom: 1px dotted rgba(0,0,0,.08);
+    font-size: 13px;
+}
+.widget1 ul.menu li a {
+    padding: 8px 0;
+    color: white;
+    font-size:17px;
+
+}
+
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville:400,700');
+@import url("//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css");
+.row-section{float:left; width:95%;border-radius: 50px}
+.row-section h5{float:left; width:100%; color:gray; margin-bottom:10px; font-size: 20px;}
+.row-section h5 span{font-family: 'Libre Baskerville', serif; display:block; font-size:25px; text-transform:none; margin-bottom:20px; margin-top:30px;font-weight:700;}
+.row-section h5 a{color:#d2abce;}
+.row-section .row-block{background:#fff; padding:20px; margin-bottom:50px;}
+.row-section .row-block ul{margin:0; padding:0;}
+.row-section .row-block ul li{list-style:none; margin-bottom:10px; width: 100%}
+.row-section .row-block ul li:last-child{margin-bottom:0;}
+.row-section .row-block ul li:hover{cursor:grabbing;}
+.row-section .row-block .media{border:1px solid #d5dbdd; padding:5px 20px; border-radius: 5px; box-shadow:0px 2px 1px rgba(0,0,0,0.04); background:#fff;width: 100%}
+.row-section .media .media-left img{width:80px;height: 65px}
+.row-section .media .media-body p{padding: 0 15px; font-size:15px;}
+.row-section .media .media-body h4 {color: #6b456a; font-size: 18px; font-weight: 600; margin-bottom: 0; padding-left: 14px; margin-top:12px;}
+.btn-default{background:#6B456A; color:#fff; border-radius:30px; border:none; font-size:16px;}
+.body{background-color: white;
+   background: url(/designe/images/blue.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;}

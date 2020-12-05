@@ -1,0 +1,1 @@
+show_ressource.blade.php
